@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Steven11q.github.io/Robotics-2025-2026",
+    baseUrl: "steven11q.github.io/Robotics-2025-2026/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
